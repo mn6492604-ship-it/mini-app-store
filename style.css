@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #00e5ff;
+}
+
+#search {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.app-card {
+    background: #1e1e1e;
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.app-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.app-card h2 {
+    margin: 10px 0 5px;
+}
+
+.app-card p {
+    color: #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background: #00c853;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #00a844;
+}body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.app-card {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+.app-card img {
+    border-radius: 15px;
+}
+
+button {
+    background: #00a651;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark .app-card {
+    background: #222;
+    color: white;
+}
+
+.dark input {
+    background: #333;
+    color: white;
+    border: 1px solid #555;
+}
